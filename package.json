@@ -1,0 +1,25 @@
+{
+  "name": "Hooky",
+  "version": "1.0.0",
+  "description": "simplified fork of smee.io with few feature additions",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sathyamoorthy",
+  "license": "ISC",
+  "dependencies": {
+    "connect-sse": "^1.2.0",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-sslify": "^1.2.0",
+    "helmet": "^4.6.0",
+    "ioredis": "^4.27.6",
+    "path": "^0.12.7"
+  }
+}
