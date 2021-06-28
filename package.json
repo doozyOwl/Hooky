@@ -1,7 +1,7 @@
 {
-  "name": "Hooky",
+  "name": "hooky",
   "version": "1.0.0",
-  "description": "simplified fork of smee.io with few feature additions",
+  "description": "Simplified fork of smee.io with few feature additions",
   "main": "index.js",
   "directories": {
     "lib": "lib"
