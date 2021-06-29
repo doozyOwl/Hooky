@@ -20,7 +20,7 @@ COPY --chown=node:node index.js ./index.js
 COPY --chown=node:node package*.json ./
 
 # Install dependencies
-RUN npm Install
+RUN npm install
 
 # Start server
 EXPOSE 3000
